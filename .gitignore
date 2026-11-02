@@ -1,0 +1,21 @@
+# your keys: never in git
+config.h
+secrets.h
+# build output
+build/
+sketch*/
+out/
+*.bin
+*.elf
+*.map
+# tests
+link/tests/test_link
+397/tests/host/a.out
+397/tests/host/host
+__pycache__/
+# the Waveshare clones the README makes, and the bench's output
+ws/
+ws397/
+397/tests/host/build/
+397/tests/host/bench397
+397/tests/host/out/

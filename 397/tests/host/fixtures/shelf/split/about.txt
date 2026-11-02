@@ -1,0 +1,14 @@
+format=1
+title=Bench, in three files
+description=A small archive for the 397 bench
+language=eng
+source=Wikipedia
+publisher=Kiwix
+date=2026-10-27
+licence=CC BY-SA 4.0
+zim=bench.zim
+articles=3006
+titles=3007
+files=3
+converted=2026-10-27
+converter=E!nkster shelf_convert.py 1.0.0, with libzim (openZIM, GPL-3.0-or-later)
